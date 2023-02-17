@@ -68,6 +68,7 @@
     },
     "require-dev": {
         "codeception/codeception": "^5.0",
+        "squizlabs/php_codesniffer": "*",
         "symfony/maker-bundle": "^1.48"
     }
 }
